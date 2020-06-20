@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/blog-ssm-private-terminal.ts"
+}
