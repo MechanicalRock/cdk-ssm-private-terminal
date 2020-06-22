@@ -1,4 +1,8 @@
-# Useful commands
+# CDK sample for private bastion using Session Manager and VPC endpoints
+
+This is a supporting repository for a blog post at
+
+## Useful commands
 
  * `npm run build`   compile typescript to js
  * `npm run watch`   watch for changes and compile
